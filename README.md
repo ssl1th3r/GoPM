@@ -1,6 +1,6 @@
 # GoPM - Package Manager for Wither Linux
 
-**GoPM** is a lightweight and easy-to-use package manager for Wither Linux, written in Go.  
+**GoPM** is a lightweight and easy-to-use package manager for Wither Linux, written in Golang.  
 It supports installing standalone binaries package.  
 Provides detailed output, progress bars, and automatic installation of CLI binaries.
 
