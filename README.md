@@ -11,7 +11,7 @@ Provides detailed output, progress bars, and automatic installation of CLI binar
 ## / Features /
 
 - Install packages directly from GitHub
-- Automatic installation of binaries to `/usr/local/bin/`
+- Automatic installation of binaries to `/usr/bin/`
 - Self-update feature for GoPM
 - Simple configuration
 - Simple use
