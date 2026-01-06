@@ -4,6 +4,8 @@
 It supports installing standalone binaries package.  
 Provides detailed output, progress bars, and automatic installation of CLI binaries.
 
+## / WARNING! /
+ - Package Manager support only binaries package, no tar, zip and etc! I will add support in the future.
 ---
 
 ## / Features /
@@ -24,3 +26,7 @@ git clone https://github.com/ssl1th3r/GoPM.git
 cd GoPM
 go build
 mv gopm /usr/bin
+```
+
+---
+
